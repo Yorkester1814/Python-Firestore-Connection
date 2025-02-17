@@ -145,4 +145,4 @@ def main():
 
 main()
 
-""" 1. API key: unique identifier that allows user to interact with database via API (Application Programming Interface). """
+""" 1. API-key: unique identifier that allows user to interact with database via API (Application Programming Interface). """
