@@ -39,7 +39,6 @@ class User:
             if not_Unique(self.UN):
                 print("username already exist. provide unique username\n")
             else:
-                
                 data = {"Username": self.UN, "Password": self.PW, "First_name": self.FN, "Last_name": self.LN}
                 account = DOCS.document()
                 account.set(data)
